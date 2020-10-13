@@ -1,0 +1,112 @@
+.boxPrincipal{
+    width: 50%;
+    margin: auto;
+    margin-left: 30%;
+    color: #333;
+    background-color: #ffff;
+    padding-top: 0px;
+    margin-bottom: 50px;
+}
+
+img{
+    cursor: pointer;
+    height: 400px;
+    width: 600px;
+    position: relative;
+    margin-left: -05%;
+}
+
+a{
+    text-decoration: none;
+    color:#333;
+}
+#PoliticalId{
+    font-weight:bold ;
+    font-size: 0.9rem;
+    margin: 0px;
+    padding: 0px;
+    font-family: nyt-franklin,helvetica,arial,sans-serif;
+}
+.header-01{
+    padding-top: 10px;
+    padding-bottom: 0px;
+    margin-bottom: 0px;
+    width: 550px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font: inherit;
+    font-style: italic;
+    text-align: left;
+}
+.header-01 p{
+    width: 550px;
+    margin-left: auto;
+    margin-right: auto;
+    font-size: 1.2rem;
+    line-height: 1.4rem;
+    font-style: normal;
+    padding-top: 0px;
+    margin-top: 0px;
+}
+.header-01 a{
+    text-decoration: underline;
+    text-decoration-color: #ccc;
+}
+.Pie1 {
+    font-size: 0.7275rem;
+    line-height: 1.1rem;
+    color: #666;
+    font-family: nyt-imperial,georgia,'times new roman',times,serif;
+    text-size-adjust: 100%;
+    font: normal;
+    font-style: normal;
+    vertical-align: baseline;
+    text-align: left;
+}
+.Pie2 {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    font-size: 100%;
+    text-size-adjust: 100%;
+    font:inherit;
+    color: #888;
+    text-align: left;
+    letter-spacing: 0.01em;
+    font-size: 0.75rem;
+}
+
+.try1{
+    font-size: 1.05rem;
+    line-height: 1.875rem;
+    font-family: nyt-imperial,Georgia, 'Times New Roman', Times, serif;
+    padding: 0;
+    border: 0;
+    width: 100%;
+    margin-left:0px;
+}
+.try1 p{
+    margin-bottom: 0.9375rem;
+    margin-top: 0;
+    width: calc(80%);
+    max-width: 600px;
+    display: block;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+}
+.try1 a{
+    text-decoration: underline;
+    color: #326891;
+}
+.BottonPag{
+    text-decoration: none ;
+    border:solid #326891 3px;
+    background-color: #326891;
+    text-align: center;
+    color: #fff;
+    font-family: nyt-imperial,Georgia, 'Times New Roman', Times, serif;
+    font-size: 20px;
+    margin-left: 70%;
+    text-decoration: none;
+}

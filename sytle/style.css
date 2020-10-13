@@ -1,0 +1,124 @@
+a{
+    text-decoration: none;
+    color:#333;
+}
+
+.boxprincipal{
+    width: 50%;
+    margin: auto;
+    padding: top 0px;
+    color: #333;
+    background-color:white;
+}
+.box-header h1{
+    padding-top: 10px;
+    color: #121212;
+    font-family: inherit;
+    font-style: italic;
+    font-size: 1.9rem;
+    line-height: 1.7rem;
+    text-align: left;
+    display:block;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    margin-bottom: 1rem;
+    margin-top: 50px;
+    width: 500px;
+    margin-left: 10%;
+    margin-right: auto;
+    position: relative;
+    
+}
+.box-header p{
+    width: 500px;
+    max-width: 500px;
+    margin-left: 10%;
+    font-style: normal;
+    font-stretch: normal;
+    margin-bottom: 0.5rem;
+    font-family: nyt-cheltenham,georgia,'times new roman',times,serif ;
+    font-weight: 300;
+    text-size-adjust: 100%;
+    vertical-align: baseline;
+}
+.box-header img{
+    width: auto;
+    vertical-align: top;
+    height: auto;
+    max-width: 100%;
+}
+
+.Button ul li{
+    display:block;
+    float:left;
+    list-style: none;
+    width: auto;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start:0px ;
+    margin-inline-end: 0px;
+    padding-inline-start: 40px;
+}
+
+.Pie1 {
+    font-size: 0.9375rem;
+    line-height: 1.25rem;
+    margin-right: 7px;
+    color: #666;
+    font-family: nyt-imperial,georgia,'times new roman',times,serif;
+    text-size-adjust: 100%;
+    font: inherit;
+    vertical-align: baseline;
+    text-align: left;
+}
+.Pie2 {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    font-size: 100%;
+    text-size-adjust: 100%;
+    font:inherit;
+    color: #888;
+    text-align: left;
+    letter-spacing: 0.01em;
+    font-size: 0.75rem;
+
+}
+
+.span1 ul li{
+    display:inline-block;
+    padding-left: 25px;
+    margin:0;
+    list-style: none;
+}
+.box-header .span2{
+    text-decoration: underline;
+    text-decoration-color: #ccc;
+}
+
+.try1{
+    font-size: 1.05rem;
+    line-height: 1.875rem;
+    font-family: nyt-imperial,Georgia, 'Times New Roman', Times, serif;
+    padding: 0;
+    border: 0;
+    width: 100%;
+    margin-left: 80px;
+}
+.try1 p{
+    margin-bottom: 0.9375rem;
+    margin-top: 0;
+    width: calc(80%);
+    max-width: 600px;
+    display: block;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+}
+.try1 a{
+    text-decoration: underline;
+    color: #326891;
+}
+
+
